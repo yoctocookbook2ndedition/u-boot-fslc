@@ -1,0 +1,6 @@
+WANDBOARD BOARD
+M:	Alex Gonzalez <alex@lindusembedded.com>
+S:	Maintained
+F:	board/wandboard-custom/
+F:	include/configs/wandboard-custom.h
+F:	configs/wandboard-custom_defconfig
