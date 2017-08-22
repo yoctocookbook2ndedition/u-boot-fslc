@@ -456,9 +456,9 @@ int board_init(void)
 int checkboard(void)
 {
 	if (is_revc1())
-		puts("Board: Wandboard rev C1\n");
+		puts("Board: Wandboard rev C1 custom\n");
 	else
-		puts("Board: Wandboard rev B1\n");
+		puts("Board: Wandboard rev B1 custom\n");
 
 	return 0;
 }
